@@ -14,18 +14,27 @@ Results:
   The school breakdown summary shows all of the analytics broken up by the individual high schools. One higher level analysis that I did was to see if there was a correlation between Per Student Budget and test performance. To do this, I split up the summary by school type (more on this later), and plotted "Per Student Budget" vs "% Overall Passing." The results are shown below, and there does not appear to be a strong relationship between the two facotrs (despite the fact that it logically would seem that more funds = better scores).
 
 ![CharterSchools](https://github.com/jrg12300/School_District_Analysis/blob/main/CharterSchools.png)
+
 ![DistrictSchools](https://github.com/jrg12300/School_District_Analysis/blob/main/DistrictSchools.png)
  
   For Thomas High School, the 9th grade's test scores were removed. However, this did not change the averages very much, as the 9th grade did not perform better or worse than the other THS grades. The tables below shows this.
   
   Math & Reading Scores by Grade:
+  
   ![MATH](https://github.com/jrg12300/School_District_Analysis/blob/main/MathScoreByGrade.png)
+  
   ![READING](https://github.com/jrg12300/School_District_Analysis/blob/main/ReadingScoreByGrade.png)
+  
   Scores by School Spending (Were not significantly changed by removing THS 9th Grade):
+  
   ![SPENDING](https://github.com/jrg12300/School_District_Analysis/blob/main/GradesbySpending.png)
+  
   Scores by School Size (Were not significantly changed by removing THS 9th Grade):
+  
   ![SIZE](https://github.com/jrg12300/School_District_Analysis/blob/main/ScoresbySize(THSleftin).png)
+  
   Scores by School Type (Were not significantly changed by removing THS 9th Grade):
+  
   ![TYPE](https://github.com/jrg12300/School_District_Analysis/blob/main/SCORESBYTYPE.png)
 
 Summary:
